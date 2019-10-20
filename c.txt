@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 abcdefg
 hijklmn
+abcdefgggggggggggggggggggggggggggggggggggggg
+>>>>>>> origin/one
